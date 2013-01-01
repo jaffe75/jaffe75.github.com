@@ -1,6 +1,3 @@
 ## Read me file
-	And more to follow
+	Contains Nothing - move along
 
-Articles
-	-I have made a few
-	-but none thus far
