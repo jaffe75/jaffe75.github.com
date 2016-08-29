@@ -1,0 +1,12 @@
+body {
+	background: #e3e3e3; 
+	font-family: sans-serif;
+}	
+
+#page-wrap {
+	width: 80%; 
+	margin: 0 auto; 
+	background: #fff; 
+	min-height: 300px; 
+	text-align: center;
+}
